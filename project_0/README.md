@@ -9,7 +9,10 @@ You will work on the first project individually.
 
 Follow the instructions [here](https://github.com/ut-cs378-vision-2014fall/course-info/blob/master/installing_open_cv.md).
 
-## Step 2: Clone the projects repository
+## Step 2: Set up your git repo
 
-You should have already set up your GitHub account and emailed the TA your account name and EID so we can grant you access to the private projects repository according to these instructions.
+Follow the instructions [here](https://github.com/ut-cs378-vision-2014fall/course-info/blob/master/github_setup.md)
 
+## Step 3: Implement your solutions
+
+Your goal is to implement everything necessary for the unit tests in `image_manipulation_test.py` to pass.
