@@ -2,6 +2,8 @@
 
 Implement your image_manipulation module so that all tests pass.
 An example of how to run these tests is given in run_tests.sh.
+
+Don't edit this file! An unchanged version will test your code.
 """
 
 import cv2
