@@ -52,7 +52,7 @@ class TestImageManipulation(unittest.TestCase):
                         row, col, expected_pixel, nyc_flipped[row, col])
 
     def test_negate_image(self):
-        """Tests the invert_image function."""
+        """Tests the negate_image function."""
 
         nyc_negated = image_manipulation.negate_image(self.nyc_image)
 
