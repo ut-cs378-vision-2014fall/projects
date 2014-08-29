@@ -1,4 +1,4 @@
-"""Assignment 1: Image Manipulation with OpenCV.
+"""Project 0: Image Manipulation with OpenCV.
 
 In this assignment, you will implement a few basic image
 manipulation tasks using the OpenCV library.
