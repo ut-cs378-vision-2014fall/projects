@@ -61,15 +61,15 @@ class TestImageManipulation(unittest.TestCase):
             self._assert_pixels_equal(
                 row, col, expected_pixel, nyc_negated[row, col])
 
-    def test_swap_red_and_green(self):
-        """Tests the swap_red_and_green function."""
-        nyc_swapped = image_manipulation.swap_red_and_green(self.nyc_image)
+    def test_swap_blue_and_green(self):
+        """Tests the swap_blue_and_green function."""
+        nyc_swapped = image_manipulation.swap_blue_and_green(self.nyc_image)
 
         for row, col in _sparse_pixels(self.nyc_image):
             expected_pixel = []
             expected_pixel.append(self.nyc_image[row, col, 1])  # First green.
-            expected_pixel.append(self.nyc_image[row, col, 0])  # Then red.
-            expected_pixel.append(self.nyc_image[row, col, 2])  # Then blue.
+            expected_pixel.append(self.nyc_image[row, col, 0])  # Then blue.
+            expected_pixel.append(self.nyc_image[row, col, 2])  # Then red.
             self._assert_pixels_equal(
                 row, col, expected_pixel, nyc_swapped[row, col])
 
