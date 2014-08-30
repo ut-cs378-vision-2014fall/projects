@@ -41,10 +41,10 @@ class TestImageManipulation(unittest.TestCase):
         for horizontal in (False, True):
             for vertical in (False, True):
                 nyc_flipped = image_manipulation.flip_image(
-                    self.nyc_image, horizontal, vertical)
+                    numpy.copy(self.nyc_image), horizontal, vertical)
 
                 rows, cols, _ = self.nyc_image.shape
-                for row, col in _sparse_pixels(self.nyc_image):
+                for row, col in _sparse_pixels(numpy.copy(self.nyc_image)):
                     row_flipped = rows - row - 1 if vertical else row
                     col_flipped = cols - col - 1 if horizontal else col
                     expected_pixel = self.nyc_image[row_flipped, col_flipped]
@@ -63,7 +63,8 @@ class TestImageManipulation(unittest.TestCase):
 
     def test_swap_blue_and_green(self):
         """Tests the swap_blue_and_green function."""
-        nyc_swapped = image_manipulation.swap_blue_and_green(self.nyc_image)
+        nyc_swapped = image_manipulation.swap_blue_and_green(
+            numpy.copy(self.nyc_image))
 
         for row, col in _sparse_pixels(self.nyc_image):
             expected_pixel = []
