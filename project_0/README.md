@@ -43,4 +43,4 @@ You can `git push` as often as you like before the submission deadline. At the d
 
 For this first assignment, if all the unit tests pass, and you have no style errors, you'll receive full credit! Points will be deducted from a maximum of 100 for each failing test and for style violations:
 * -20 points per failing test, up to -60 total
-* -5 per 5 lint errors, up to -20 total 
+* -1 point per pep8 style violation, up to -20 total 
