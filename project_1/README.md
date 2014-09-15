@@ -53,7 +53,7 @@ Composite your images together into a mosaic to form the final output panorama. 
 
 ### Write up and results (20 points)
 
-Capture at least one set of three or more images using any camera you like (your phone's camera will probably do fine) and stitch the images together into a panorama with your implementation. Add the source images, the panorama, and a script that can regenerate the pano from your implementation into the `my_panos` folder.
+Capture at least one set of three or more images using any camera you like (your phone's camera will probably do fine) and stitch the images together into a panorama with your implementation. Add the source images, the panorama, and a script that can regenerate the pano from your implementation into the `my_panos` folder. Include a `write_up.txt` or `write_up.pdf` describing how to run your script, and any interesting information about your solution you'd like to share.
 
 If you want, play around! Try taking a panorama where the same person or object appears multiple times. Try distant and close up scenes to see the effects of parallax on your solution. Place any interesting panos in the `my_panos` folder and I'll share the results with the class.
 
