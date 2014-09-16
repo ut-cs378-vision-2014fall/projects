@@ -92,6 +92,7 @@ class TestPanoStitcher(unittest.TestCase):
         scaled_rows, scaled_cols, _ = image_scaled.shape
         self.assertEqual(rows * scale, scaled_rows)
         self.assertEqual(cols * scale, scaled_cols)
+        self.assertEqual((0, 0), origin)
 
     def test_warp_image_translate(self):
         """Tests warping an image by a translation-only homography."""
@@ -99,11 +100,14 @@ class TestPanoStitcher(unittest.TestCase):
         rows, cols, _ = image.shape
 
         # A homography that only translates the image should not change shape.
-        H_translate = self._translate_homography(101, 42)
+        t_x = 101
+        t_y = 42
+        H_translate = self._translate_homography(t_x, t_y)
         image_translated, origin = pano_stitcher.warp_image(image, H_translate)
         translated_rows, translated_cols, _ = image_translated.shape
         self.assertEqual(rows, translated_rows)
         self.assertEqual(cols, translated_cols)
+        self.assertEqual((t_x, t_y), origin)
 
     def _read_origins(self):
         """Returns book images origins from data file."""
