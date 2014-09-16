@@ -79,6 +79,63 @@ class TestPanoStitcher(unittest.TestCase):
         max_difference_magnitude = 0.5
         self.assertLessEqual(H_difference_magnitude, max_difference_magnitude)
 
+    def _random_homography(self, rows, cols):
+        """Returns an arbitrary homography for testing."""
+        orig_points = numpy.array([[0, 0],
+                                   [0, rows - 1],
+                                   [cols - 1, 0],
+                                   [cols - 1, rows - 1]],
+                                  numpy.float32)
+        frac = 4  # Difficulty increases as this goes down to 1.
+        warp_points = numpy.array([[random.randrange(rows / frac),
+                                    random.randrange(cols / frac)],
+                                   [-random.randrange(cols / frac),
+                                    rows - 1 - random.randrange(rows / frac)],
+                                   [cols - 1 - random.randrange(cols / frac),
+                                    random.randrange(rows / frac)],
+                                   [cols - 1 - random.randrange(cols / frac),
+                                    rows - 1 - random.randrange(rows / frac)]],
+                                  numpy.float32)
+        H = cv2.getPerspectiveTransform(orig_points, warp_points)
+        # Shift the image toward the middle of the output to avoid cropping.
+        return numpy.matrix([[1.0, 0.0, cols / 4],
+                             [0.0, 1.0, rows / 4],
+                             [0.0, 0.0, 1.0]]) * H
+
+    def test_homography_torture(self):
+        """Test homography estimation accuracy across many inputs.
+
+        This "torture test" for homography estimation exercises the
+        homography() function across several input images and a broad range of
+        perspective distortions, computing a final "score" that is the median
+        difference between the estimated and true homography.
+        """
+        # Initialize the random module to a known state.
+        random.seed(42)
+
+        differences = []
+        for filename in ("houses_left.png", "camera_hand.png", "boots.png",
+                         "clouds.png", "foam.png"):
+            image = cv2.imread(os.path.join("test_data/torture", filename),
+                               cv2.CV_LOAD_IMAGE_GRAYSCALE)
+            rows, cols = image.shape
+            for i in range(10):
+                H_expected = self._random_homography(rows, cols)
+                image_warped = cv2.warpPerspective(image, H_expected,
+                                                   (int(cols * 1.5),
+                                                    int(rows * 1.5)))
+                # Uncomment to visualize.
+                # cv2.imshow("warp", image_warped)
+                # cv2.waitKey(0)
+                H_actual = pano_stitcher.homography(image_warped, image)
+                H_difference = numpy.absolute(H_expected - H_actual)
+                H_difference_magnitude = numpy.linalg.norm(H_difference)
+                differences.append(H_difference_magnitude)
+
+                print "Difference for", filename, "homography", i, ":",
+                print H_difference_magnitude
+        print "Median difference: ", sorted(differences)[len(differences) / 2]
+
     def test_warp_image_scale(self):
         """Tests warping an image by a scale-only homography."""
         image = cv2.imread("test_data/houses_left.png")
