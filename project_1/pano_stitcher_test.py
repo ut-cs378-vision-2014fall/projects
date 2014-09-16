@@ -14,6 +14,8 @@ import cv2
 import pano_stitcher
 import numpy
 import unittest
+import random
+import os
 
 
 class TestPanoStitcher(unittest.TestCase):
