@@ -16,6 +16,8 @@ import numpy
 import os
 import random
 import unittest
+import random
+import os
 
 
 class TestPanoStitcher(unittest.TestCase):
