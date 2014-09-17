@@ -11,11 +11,11 @@ of your own functions to your implementation!
 """
 
 import cv2
-import pano_stitcher
 import numpy
-import unittest
-import random
 import os
+import pano_stitcher
+import random
+import unittest
 
 
 class TestPanoStitcher(unittest.TestCase):
