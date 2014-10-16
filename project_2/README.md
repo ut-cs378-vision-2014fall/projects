@@ -2,6 +2,8 @@ Project 2: Stereo
 ========
 
 ## Due: 14 Oct 2014, 11:59pm
+## Code reviews due: 17 Oct 2014, 11:59pm
+## Final code revisions due: 21 Oct 2014, 11:59pm
 
 <img src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/stereo_header.png"/>
 
