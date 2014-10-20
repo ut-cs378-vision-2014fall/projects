@@ -1,6 +1,8 @@
 Final Project
 ========
 
+<img height="350" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/sfm_header.png"/>
+
 For your final project, you'll tackle a problem related to 3D reconstruction and computer vision. This will include:
 
 * A detailed proposal of the problem you plan to solve.
