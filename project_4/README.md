@@ -1,12 +1,6 @@
 Final Project
 ========
 
-## Proposals Due: 4 November, 11:59pm
-## Progress Report 1 Due: 13 November, 11:59pm
-## Progress Report 2 Due: 20 November, 11:59pm
-## Final report and implementation Due: 2 December, 11:59pm
-## In-class project presentations: 25 Nov, 2 Dec, and 4 Dec
-
 For your final project, you'll tackle a problem related to 3D reconstruction and computer vision. This will include:
 
 * A detailed proposal of the problem you plan to solve.
@@ -14,7 +8,7 @@ For your final project, you'll tackle a problem related to 3D reconstruction and
 * A final report detailing your approach and results.
 * A ten-minute in-class presentation of your results.
 
-### Project proposal (20 points)
+### Project proposal (20 points), Due 4 Nov, 11:59pm
 
 It is up to each group to select a project topic. You'll present your idea in a project proposal, which I'll evaluate to make sure that it has appropriate scope, difficulty, and to help get you started researching how to accomplish your implementation.
 
@@ -67,10 +61,17 @@ If you like, you can assign particular objectives and/or results to specific gro
 
 By the due date, place a file `proposal.pdf` in the `project_4` repository of your group members.
 
-### Progress Report 1 (10 points)
-### Progress Report 2 (10 points)
-### Final report and implementation (50 points)
-### In-class presentation (10 points)
+### Progress Report 1 (10 points), Due 13 Nov, 11:59pm
+Details to come.
+
+### Progress Report 2 (10 points), Due 20 Nov, 11:59pm
+Details to come.
+
+### Final report and implementation (50 points), Due 2 Dec, 11:59pm
+Details to come.
+
+### In-class presentation (10 points), 25 Nov, 2 Dec, or 4 Dec
+Details to come.
 
 ## Logistics
 
