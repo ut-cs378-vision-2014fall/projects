@@ -29,15 +29,17 @@ The first step of your project will be to submit a project proposal including:
 
 #### Groups
 
-You are free to self-organize into any group you like as long as it has at least three and no more than five members. List your group members and any filename-safe team name you like (used for managing code and submissions) in your proposal.
+You are free to self-organize into any group you like as long as it has at least three and no more than five members. List your group members and any filename-safe team name you like (used for managing code and submissions) in your proposal. I expect larger groups to take on more ambitious projects.
 
 #### Topic requirements
 
 Although you have a lot of latitude in the topic of your project, it must meet at least the following requirements:
 
-* It has some component where 3D information is deduced from 2D images
+* It has some component where 3D information is deduced from 2D images.
 * It demands substantial implementation effort on your part (i.e., original code creation).
-* It has a reasonable probability of success given the time and resources available to you
+* It has a reasonable probability of success given the time and resources available to you.
+
+Aim high! It is better to be too ambitious and fail to meet some of your goals than to select too simple of a project. I will take into account the difficulty of the project when evaluating it.
 
 #### Objectives and associated results
 
@@ -60,6 +62,10 @@ Given the topic you plan to approach, determine at least three high-level object
 For each result you listed, estimate the effort required to complete it, and the date on which you expect to have achieved that result. The more detailed you make your results, the easier this estimation will be, and the better chance you'll have of finishing your project on schedule.
 
 If you like, you can assign particular objectives and/or results to specific group members--whatever works best for you.
+
+#### How to turn in
+
+By the due date, place a file `proposal.pdf` in the `project_4` repository of your group members.
 
 ### Progress Report 1 (10 points)
 ### Progress Report 2 (10 points)
