@@ -40,8 +40,8 @@ Aim high! It is better to be too ambitious and fail to meet some of your goals t
 Given the topic you plan to approach, determine at least three high-level objectives that you are aiming for. For each objective, identify at least one measureable result that confirms whether and to what extent you have met the objective. Here are some example objectives and associated results:
 
 * Objective: Reconstruct a room with my cell phone camera
-** Result: A phone app that tracks 100 or more 3D points accurately in real-time.
-** Result: A 3D point cloud which measures major dimensions of the room with in 10% of true dimensions.
+  * Result: A phone app that tracks 100 or more 3D points accurately in real-time.
+  * Result: A 3D point cloud which measures major dimensions of the room with in 10% of true dimensions.
 
 * Objective: Insert an image on the football field of a UT home game.
 ** Result: A still image of the field with 99% of foreground pixels removed.
