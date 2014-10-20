@@ -44,12 +44,12 @@ Given the topic you plan to approach, determine at least three high-level object
   * Result: A 3D point cloud which measures major dimensions of the room with in 10% of true dimensions.
 
 * Objective: Insert an image on the football field of a UT home game.
-** Result: A still image of the field with 99% of foreground pixels removed.
-** Result: A 5-second gameplay clip including a pan where the playing field bounds are estimated to within 10% accuracy.
+  * Result: A still image of the field with 99% of foreground pixels removed.
+  * Result: A 5-second gameplay clip including a pan where the playing field bounds are estimated to within 10% accuracy.
 
 * Objective: Control a mouse cursor by tracking a hand in a cell phone video.
-** Result: Succesfully segment a hand from 90% of video frames with a clean background.
-** Result: Send an email entirely using the system.
+  * Result: Succesfully segment a hand from 90% of video frames with a clean background.
+  * Result: Send an email entirely using the system.
 
 #### Planned schedule for meeting objectives
 
