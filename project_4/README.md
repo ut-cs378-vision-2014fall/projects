@@ -10,7 +10,7 @@ For your final project, you'll tackle a problem related to 3D reconstruction and
 * A final report detailing your approach and results.
 * A ten-minute in-class presentation of your results.
 
-### Project proposal (20 points), Due 4 Nov, 11:59pm
+### Project proposal (20 points), Due 28 Oct, 11:59pm
 
 It is up to each group to select a project topic. You'll present your idea in a project proposal, which I'll evaluate to make sure that it has appropriate scope, difficulty, and to help get you started researching how to accomplish your implementation.
 
