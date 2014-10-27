@@ -35,7 +35,7 @@ class TestTracking(unittest.TestCase):
         self.max_ball_diff = len(self.ball_bounds) * 10
 
         # 100 pixels of error per frame for face tracking.
-        self.max_face_diff = len(self.face_bounds) * 10
+        self.max_face_diff = len(self.face_bounds) * 100
 
     def _tracking_bounds_diff(self, expected_bounds, actual_bounds):
         """Computes the difference, in pixels, between tracked bounds."""
