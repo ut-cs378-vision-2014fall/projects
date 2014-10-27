@@ -57,27 +57,27 @@ class TestTracking(unittest.TestCase):
 
     def test_track_ball_1(self):
         """Tests that the ball in ball_1.mov is correctly tracked."""
-        self.track_ball_with_function_("test_data/ball_1.mov",
-                                       tracking.track_ball_1)
+        self.track_ball_with_function_(
+            "test_data/ball_1_frames/frame_%03d.png", tracking.track_ball_1)
 
     def test_track_ball_2(self):
         """Tests that the ball in ball_2.mov is correctly tracked."""
-        self.track_ball_with_function_("test_data/ball_2.mov",
-                                       tracking.track_ball_2)
+        self.track_ball_with_function_(
+            "test_data/ball_2_frames/frame_%03d.png", tracking.track_ball_2)
 
     def test_track_ball_3(self):
         """Tests that the ball in ball_3.mov is correctly tracked."""
-        self.track_ball_with_function_("test_data/ball_3.mov",
-                                       tracking.track_ball_3)
+        self.track_ball_with_function_(
+            "test_data/ball_3_frames/frame_%03d.png", tracking.track_ball_3)
 
     def test_track_ball_4(self):
         """Tests that the ball in ball_4.mov is correctly tracked."""
-        self.track_ball_with_function_("test_data/ball_4.mov",
-                                       tracking.track_ball_4)
+        self.track_ball_with_function_(
+            "test_data/ball_4_frames/frame_%03d.png", tracking.track_ball_4)
 
     def test_track_face(self):
         """Tests that the face in face.mov is correctly tracked."""
-        video = cv2.VideoCapture('test_data/face.mov')
+        video = cv2.VideoCapture('test_data/face_frames/frame_%03d.png')
         bounds = tracking.track_face(video)
         bounds_diff = self._tracking_bounds_diff(self.face_bounds, bounds)
         self.assertLessEqual(bounds_diff, self.max_face_diff)
