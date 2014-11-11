@@ -5,7 +5,7 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ### Slot 1: Empty
 ### Slot 2: Empty
 ### Slot 3: Empty
-### Slot 4: Empty
+### Slot 4: Group 1 - FDIB
 ### Slot 5: Empty
 
 ## Tuesday, 2 Decemeber
