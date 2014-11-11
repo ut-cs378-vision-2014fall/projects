@@ -16,7 +16,7 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ### Slot 5: Empty
 
 ## Thursday, 4 December
-### Slot 1: Empty
+### Slot 1: Group 3 - Smiley
 ### Slot 2: Empty
 ### Slot 3: Empty
 ### Slot 4: Empty
