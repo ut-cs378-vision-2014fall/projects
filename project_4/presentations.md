@@ -16,9 +16,9 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ### Slot 5: Empty
 
 ## Thursday, 4 December
-### Slot 1: Motion Tweening
+### Slot 1: Group 12 - Motion Tweening
 Kevin Yeh, Matt Broussard, Kaelin Hooper, Conner Collins
-### Slot 2: Empty
+### Slot 2: Group 3 - Smiley
 ### Slot 3: Empty
 ### Slot 4: Empty
 ### Slot 5: Empty
