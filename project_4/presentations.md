@@ -6,6 +6,7 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ### Slot 2: Empty
 ### Slot 3: Empty
 ### Slot 4: Group 1 - FDIB
+Ashley Ng, Ian Hays, Xavier Beynon, Riley Gibson
 ### Slot 5: Empty
 
 ## Tuesday, 2 Decemeber
@@ -21,8 +22,10 @@ Sean Cascketta, Matthew Diamond, Miguel Del Valle, Nishant Gupta
 ### Slot 1: Group 12 - Motion Tweening
 Kevin Yeh, Matt Broussard, Kaelin Hooper, Conner Collins
 ### Slot 2: Group 3 - Smiley
+Clint Ascencio, Dory Glauberman, Huijun Kim, Rene Garcia, Tomas Jesus Gonzalez
 ### Slot 3: Group 10
-### Slot 4: Chris Metcalf, Max Timkovich, Lauren Hunter, Guillermo Terrazas,
-Eduardo Zapata
+Jeffrey Tang, Steven Ritchie, Thanh Nguyen
+### Slot 4: Group 4
+Chris Metcalf, Max Timkovich, Lauren Hunter, Guillermo Terrazas, Eduardo Zapata
 ### Slot 5: Group 5 - HandMade
 Paul Bae, Mikkel Kim, Tim Sherlock, Ian Cai
