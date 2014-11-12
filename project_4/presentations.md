@@ -11,7 +11,7 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ## Tuesday, 2 Decemeber
 ### Slot 1: Group 2 - Project Palm: Nikhil Dixit, Thejas Prasad, Chirag Sakhuja, Julian Sia
 ### Slot 2: Empty
-### Slot 3: Empty
+### Slot 3: Group 6 - 3dscanner: Sean Cascketta, Matthew Diamond, Miguel Del Valle, Nishant Gupta
 ### Slot 4: Empty
 ### Slot 5: Empty
 
