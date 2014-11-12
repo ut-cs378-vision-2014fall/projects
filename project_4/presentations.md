@@ -20,6 +20,7 @@ Please submit a pull request which fills in your group in the time slot you'd li
 Kevin Yeh, Matt Broussard, Kaelin Hooper, Conner Collins
 ### Slot 2: Group 3 - Smiley
 ### Slot 3: Group 10
-### Slot 4: Empty
+### Slot 4: Chris Metcalf, Max Timkovich, Lauren Hunter, Guillermo Terrazas,
+Eduardo Zapata
 ### Slot 5: Group 5 - HandMade
 Paul Bae, Mikkel Kim, Tim Sherlock, Ian Cai
