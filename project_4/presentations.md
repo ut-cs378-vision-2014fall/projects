@@ -23,9 +23,9 @@ Sean Cascketta, Matthew Diamond, Miguel Del Valle, Nishant Gupta
 Kevin Yeh, Matt Broussard, Kaelin Hooper, Conner Collins
 ### Slot 2: Group 3 - Smiley
 Clint Ascencio, Dory Glauberman, Huijun Kim, Rene Garcia, Tomas Jesus Gonzalez
-### Slot 3: Group 10
+### Slot 3: Group 10 - Hand Tracking
 Jeffrey Tang, Steven Ritchie, Thanh Nguyen
-### Slot 4: Group 4
+### Slot 4: Group 4 - Facial and Gesture Recognition
 Chris Metcalf, Max Timkovich, Lauren Hunter, Guillermo Terrazas, Eduardo Zapata
 ### Slot 5: Group 5 - HandMade
 Paul Bae, Mikkel Kim, Tim Sherlock, Ian Cai
