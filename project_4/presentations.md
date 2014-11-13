@@ -18,7 +18,8 @@ Jeremy Hintz, Chris Gramberg, Matt Allen
 Sean Cascketta, Matthew Diamond, Miguel Del Valle, Nishant Gupta
 ### Slot 4: Group 7 - Hackulus Thriftus:
 Jonathan Lee, Paige Hinkle, Siena McFetridge, Jaime Rivera, Rohan Ramchand
-### Slot 5: Empty
+### Slot 5: Group 9 "Interpreting Image Camera Location from Known 3D Models"
+Lyee Chong, Nick Walther, Michelle Lawrence
 
 ## Thursday, 4 December
 ### Slot 1: Group 12 - Motion Tweening
