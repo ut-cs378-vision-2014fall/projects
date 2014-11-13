@@ -16,7 +16,8 @@ Nikhil Dixit, Thejas Prasad, Chirag Sakhuja, Julian Sia
 Jeremy Hintz, Chris Gramberg, Matt Allen
 ### Slot 3: Group 6 - 3dscanner: 
 Sean Cascketta, Matthew Diamond, Miguel Del Valle, Nishant Gupta
-### Slot 4: Empty
+### Slot 4: Group 7 - Hackulus Thriftus:
+Jonathan Lee, Paige Hinkle, Siena McFetridge, Jaime Rivera, Rohan Ramchand
 ### Slot 5: Empty
 
 ## Thursday, 4 December
