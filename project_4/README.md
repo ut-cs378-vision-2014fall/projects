@@ -68,6 +68,7 @@ Progress Report 1 is an updated and expanded version of your initial proposal. I
 * Updated Project topic
 * Updated objectives with associated measurable results
 * Updated schedule for meeting objectives
+
 Each group should have recieved an evaluation of their initial proposal by 4 November. Using this evaluation, update your topic, objectives, and schedule as necessary, and include it in your progress report.
 
 Further, for any results or objectives that you planned to achieve by the Progress Report 1 due date, demonstrate that you have achieved them by providing images, video, or starter code. If you missed your planned completion date, explain what challenges you faced that prevented you from achieving them.
