@@ -12,7 +12,8 @@ Ashley Ng, Ian Hays, Xavier Beynon, Riley Gibson
 ## Tuesday, 2 Decemeber
 ### Slot 1: Group 2 - Project Palm
 Nikhil Dixit, Thejas Prasad, Chirag Sakhuja, Julian Sia
-### Slot 2: Empty
+### Slot 2: Group 11 - AR Chess
+Jeremy Hintz, Chris Gramberg, Matt Allen
 ### Slot 3: Group 6 - 3dscanner: 
 Sean Cascketta, Matthew Diamond, Miguel Del Valle, Nishant Gupta
 ### Slot 4: Empty
