@@ -7,7 +7,8 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ### Slot 3: Empty
 ### Slot 4: Group 1 - FDIB
 Ashley Ng, Ian Hays, Xavier Beynon, Riley Gibson
-### Slot 5: Empty
+### Slot 5: Group 8 - Globe
+Anubhav Ashok, Sai Avala, Suvamsh Shivaprasad, Tucker Long
 
 ## Tuesday, 2 Decemeber
 ### Slot 1: Group 2 - Project Palm
