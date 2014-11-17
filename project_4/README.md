@@ -76,18 +76,34 @@ Further, for any results or objectives that you planned to achieve by the Progre
 Include an updated schedule in your progress report that reflects what you believe you can achieve and when for the duration of the final project schedule.
 
 #### How to turn in.
-
 By the due date, place a file `progress_report_1.pdf` in the `project_4` repository of your group members.
 
 ### Progress Report 2 (10 points), Due 20 Nov, 11:59pm
 Requirements are the same as for progress report 1, except you should address the goals for the time period between progress report 1 and 2.
 
 #### How to turn in.
-
 By the due date, place a file `progress_report_2.pdf` in the `project_4' repository of your group members.
 
 ### Final report and implementation (50 points), Due 2 Dec, 11:59pm
-Details to come.
+Each team will submit a report along with their implementation.
+
+#### Report requirements (30 points)
+Your report, in PDF format, should serve as a standalone showcase of your project's achievements as well as a document of your implementation process. Include as many pictures, diagrams, graphs, and quantitative measures as you can to demonstrate your results. Your report should be at least 5 pages, and include at least:
+
+* Overview: enumerate the final objectives of your project and key results that you achieved.
+* Background: Give a brief description of the state-of-the-art in the are of your project. If you referred to or used directly previous work (academic papers, open source code, data sets, etc), cite it fully and describe its relevance to your project.
+* Methods: Describe the software and other components you created to achieve your objectives. What languages, libraries, hardware, and so forth did you employ? How did you structure your system? What algorithms did you apply or create?
+* Results: Demonstrate concretely the objectives you completed with **quantitative** results. For example, if you planned to track faces with 90% accuracy, demonstrate your success rate by measuring it and listing your actual success rate. Include screenshots, graphs, and videos (also checked in with your report) to prove what you achieved.
+
+#### Implementation requirements (20 points)
+Quality of implementation is very important for successfully software projects. The quality of your implementation will contribute to your final project grade. I expect the following:
+
+* A README.md at your top-level implementation directory describing the structure and organization of your code and support files, and instructions for building and running the code. I understand that some code my require specialized hardware (cell phone, etc) to run.
+* All code should be well-documented with comments, readable code, and well-factored structure. I'll evaluate code quality using similar criteria as those applied in code review on other projects.
+* All major logic/algorithms must include unit tests verifying their correctness. It's best to write unit tests as you go rather than trying to add them all at the end--you'll find that making your code easy to test will often have a big impact (for the better) on its organization.
+
+#### How to turn in.
+By the due date, place the PDF-format report in the file `final_report.pdf` in the `project_4` repository of your group members. Place all code, support files, and documentation in a `code` subdirectory of the `project_4` folder. 
 
 ### In-class presentation (10 points), 25 Nov, 2 Dec, or 4 Dec
 Each team will give a 10-minute presentation to the entire class summarizing the goals and results of their final project. As many or as few group members may participate in the presentation as you want, but everyone will share the same grade for the presentation.
