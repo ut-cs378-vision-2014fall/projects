@@ -77,7 +77,7 @@ Include an updated schedule in your progress report that reflects what you belie
 
 #### How to turn in.
 
-By the due date, place a file `progress_report_1.pdf' in the `project_4' repository of your group members.
+By the due date, place a file `progress_report_1.pdf` in the `project_4` repository of your group members.
 
 ### Progress Report 2 (10 points), Due 20 Nov, 11:59pm
 Requirements are the same as for progress report 1, except you should address the goals for the time period between progress report 1 and 2.
