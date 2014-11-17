@@ -92,10 +92,12 @@ Details to come.
 ### In-class presentation (10 points), 25 Nov, 2 Dec, or 4 Dec
 Each team will give a 10-minute presentation to the entire class summarizing the goals and results of their final project. As many or as few group members may participate in the presentation as you want, but everyone will share the same grade for the presentation.
 
+Presentation time slots are recorded on [`presentations.md`](presentations.md).
+
 Requirements:
 * 10 minutes of presentation material (up to 5 minutes of questions and discussion will follow).
 * Include a summary of the original and updated final objectives of your project.
-* Include a summary of results from objectives you did manage to complete (think **live demos**, pictures, videos). You can spend the bulk of your time on this section.
+* Include a summary of results from objectives you did complete (think **live demos**, pictures, videos). You can spend the bulk of your time on this section.
 * Include a summary of key challenges you faced and how you adapted your objectives to meet or work around them.
 
 You are responsible for showing up with presentation materials that will work with the A/V setup in WEL 2.256, which has a projector with VGA video and 3.5mm audio connections, as well as an opaque projector. **I recommend you test out your laptop or other presentation material in WEL 2.256 before your presentation day**. No special keys or access are needed to connect; come any time to test it out.
