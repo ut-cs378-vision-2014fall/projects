@@ -87,7 +87,7 @@ By the due date, place a file `progress_report_2.pdf` in the `project_4' reposit
 ### Final report and implementation (50 points), Due 2 Dec, 11:59pm
 Each team will submit a report along with their implementation.
 
-#### Report requirements (30 points)
+#### Report requirements (35 points)
 Your report, in PDF format, should serve as a standalone showcase of your project's achievements as well as a document of your implementation process. Include as many pictures, diagrams, graphs, and quantitative measures as you can to demonstrate your results. Your report should be at least 5 pages, and include at least:
 
 * Overview: enumerate the final objectives of your project and key results that you achieved.
@@ -95,7 +95,9 @@ Your report, in PDF format, should serve as a standalone showcase of your projec
 * Methods: Describe the software and other components you created to achieve your objectives. What languages, libraries, hardware, and so forth did you employ? How did you structure your system? What algorithms did you apply or create?
 * Results: Demonstrate concretely the objectives you completed with **quantitative** results. For example, if you planned to track faces with 90% accuracy, demonstrate your success rate by measuring it and listing your actual success rate. Include screenshots, graphs, and videos (also checked in with your report) to prove what you achieved.
 
-#### Implementation requirements (20 points)
+You'll be evaluated not just on the contents of the report but to the degree to which it demonstrates that you successfully achieved the objectives of your project.
+
+#### Implementation requirements (15 points)
 Quality of implementation is very important for successfully software projects. The quality of your implementation will contribute to your final project grade. I expect the following:
 
 * A README.md at your top-level implementation directory describing the structure and organization of your code and support files, and instructions for building and running the code. I understand that some code my require specialized hardware (cell phone, etc) to run.
