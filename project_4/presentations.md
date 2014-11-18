@@ -4,7 +4,8 @@ Please submit a pull request which fills in your group in the time slot you'd li
 ## Tuesday, 25 November
 ### Slot 1: Empty
 ### Slot 2: Empty
-### Slot 3: Empty
+### Slot 3: Group 13 - War Games
+Jack Carlson, Stephen Arnett, Christopher Renard
 ### Slot 4: Group 1 - FDIB
 Ashley Ng, Ian Hays, Xavier Beynon, Riley Gibson
 ### Slot 5: Group 8 - Globe
